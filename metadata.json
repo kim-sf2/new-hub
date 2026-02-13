@@ -1,0 +1,8 @@
+{
+  "name": "SomnusAI - Personalized Sleep & Nutrition",
+  "description": "A digital healthcare solution offering sleep analysis, pre-sleep AI coaching, and personalized functional food subscriptions to improve sleep quality.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
